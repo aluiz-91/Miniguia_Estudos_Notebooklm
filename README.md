@@ -1,4 +1,6 @@
-# Tempos e Movimentos na Administração Científica de Frederick Taylor
+# 🏢 Desafio de Projeto: Miniguia de Estudos com Notebooklm - Bootcamp Bradesco - GenAI, Dados & Cyber (DIO) 
+
+# Projeto - Tempos e Movimentos na Administração Científica de Frederick Taylor
 
 ## 📋 Contexto
 Este projeto foi desenvolvido utilizando o **NotebookLM** para estudar os conceitos de Tempos e Movimentos propostos por Frederick Winslow Taylor, um dos principais representantes da Administração Científica.
