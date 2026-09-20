@@ -35,3 +35,7 @@ Além do miniguia, foi produzido um documento consolidado utilizando o próprio 
 Durante a elaboração deste projeto, foi possível compreender a importância dos estudos de tempos e movimentos para a eficiência das organizações por meio da análise sistemática das tarefas.
 
 Além do aprendizado teórico, o projeto desenvolveu habilidades práticas em pesquisa, organização de informações e engenharia de prompts. A experiência evidenciou que a qualidade dos resultados obtidos por ferramentas de inteligência artificial depende diretamente da clareza das perguntas formuladas e da curadoria das fontes utilizadas.
+
+## 👨‍💻 Autor
+Desenvolvido por André Luiz durante a trilha treinando uma IA de aprendizagem da DIO.
+GitHub
