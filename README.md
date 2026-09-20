@@ -38,4 +38,4 @@ Além do aprendizado teórico, o projeto desenvolveu habilidades práticas em pe
 
 ## 👨‍💻 Autor
 Desenvolvido por André Luiz durante a trilha treinando uma IA de aprendizagem da DIO.
-GitHub
+[GitHub](https://github.com/aluiz-91)
